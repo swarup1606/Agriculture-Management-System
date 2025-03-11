@@ -16,12 +16,13 @@ This project is an **AI-powered plant disease detection system** that uses **Goo
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/swarup1606/Agriculture-Management-System.git
+git clone https://github.com/swarup1606/Agriculture-Management-System/tree/master
 cd Agriculture-Management-System
 ```
 
 ### 2️⃣ Install Dependencies
 ```bash
-pip install streamlit google-generativeai
+pip install -r requirements.txt
 ```
 
 ### 3️⃣ Set Up API Key
