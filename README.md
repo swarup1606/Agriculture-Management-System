@@ -26,6 +26,7 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Set Up API Key
+```
 1. Get your API key from [Google AI Studio](https://aistudio.google.com/).
    GOOGLE_API_KEY = "your-api-key-here"
    ```
